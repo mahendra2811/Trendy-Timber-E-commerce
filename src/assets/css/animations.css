@@ -1,0 +1,80 @@
+/* Main App Animation File */
+/*
+ animation: name duration timing-function delay iteration-count direction fill-mode; 
+    */
+
+/* Default-Preload-Animation */
+.motion-none {
+  animation: none !important;
+}
+.preload {
+  opacity: 0;
+}
+.preload:is(.animate) {
+  animation: preLoad 0.5s ease-in 0.3s 1 normal forwards;
+}
+@keyframes preLoad {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Preload-Left */
+.preload-l {
+  opacity: 0;
+  margin-left: 30px;
+}
+.preload-l:is(.animate) {
+  animation: preLoadLeft 0.5s ease-in 0.3s 1 normal forwards;
+}
+@keyframes preLoadLeft {
+  0% {
+    opacity: 0;
+    margin-left: 30px;
+  }
+  100% {
+    opacity: 1;
+    margin-left: initial;
+  }
+}
+
+/* Preload-Right */
+.preload-r {
+  opacity: 0;
+  margin-left: -30px;
+}
+.preload-r:is(.animate) {
+  animation: preLoadRight 0.5s ease-in 0.3s 1 normal forwards;
+}
+@keyframes preLoadRight {
+  0% {
+    opacity: 0;
+    margin-left: -30px;
+  }
+  100% {
+    opacity: 1;
+    margin-left: initial;
+  }
+}
+
+/* Preload-Resize */
+.preload-rs {
+  opacity: 0;
+  transform: scale(0.9, 0.7);
+}
+.preload-rs:is(.animate) {
+  animation: preLoadResize 0.5s ease-in 0.2s 1 normal forwards;
+}
+@keyframes preLoadResize {
+  0% {
+    opacity: 0;
+    transform: scale(0.9, 0.89);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1, 1);
+  }
+}

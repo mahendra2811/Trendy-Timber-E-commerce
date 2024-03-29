@@ -1,0 +1,191 @@
+/* Root-Properties */
+:root {
+  /* colors properties */
+  --colr-primary: #265a5a;
+  --colr-primary-dark: #214e4e;
+  --colr-primary-darker: #193b3b;
+  --colr-primary-light: #409682;
+
+  --colr-secondary: #eac5b5;
+  --colr-secondary-dark: #d8b4a5;
+  --colr-secondary-darker: #b19386;
+  --colr-secondary-light: #ffeee6;
+
+  --colr-black: #242424;
+  --colr-black-dark: #1e1e1e;
+  --colr-black-darker: #0b0b0b;
+
+  --colr-light: #f1f1f1;
+  --colr-light-dark: #ededed;
+  --colr-light-darker: #dfdfdf;
+}
+
+/* Default-Properties */
+body {
+  margin: 0;
+  padding: 0;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a,
+a:after {
+  color: initial !important;
+  text-decoration: none;
+}
+.cursor-p{
+  cursor: pointer !important;
+}
+.form-control,
+.btn {
+  box-shadow: none !important;
+}
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+/* Ui-Properties */
+/* Colors */
+.bg-color-primary {
+  background-color: var(--colr-primary) !important;
+}
+.bg-color-secondary {
+  background-color: var(--colr-secondary-light) !important;
+}
+.bg-color-secondary-dark {
+  background-color: var(--colr-secondary-dark) !important;
+}
+.color-secondary {
+  color: var(--colr-secondary-dark) !important;
+}
+.color-primary {
+  color: var(--colr-primary) !important;
+}
+.color-black {
+  color: var(--colr-black) !important;
+}
+.color-black-dark {
+  color: var(--colr-black-dark) !important;
+}
+.color-black-darker {
+  color: var(--colr-black-darker) !important;
+}
+
+/* Components */
+/* Navbars-Component */
+/* Global */
+.nav-primary {
+  background-color: var(--colr-primary);
+}
+.nav-primary .navbar-toggler .icon {
+  color: var(--colr-light) !important;
+}
+.navbar:not(.navlight) a.nav-link {
+  color: var(--colr-light) !important;
+  font-size: 1em;
+  margin-inline: 5px !important;
+}
+.navbar a.nav-link:hover {
+  opacity: 1 !important;
+}
+.navbar a.nav-link:not(.active) {
+  opacity: 0.8;
+}
+
+/*  Links */
+.link-primary {
+  color: inherit !important;
+}
+.link-primary:hover {
+  opacity: 100% !important;
+  color: var(--colr-primary-light) !important;
+}
+.link-primary:active {
+  color: var(--colr-primary-dark) !important;
+}
+
+/*  Buttons-Components */
+/* Global */
+/* Btn-Outlined */
+.outlined-btn {
+  background-color: transparent !important;
+}
+
+/* Primary-btn */
+.primary-btn {
+  border: 1px solid var(--colr-primary) !important;
+  background-color: var(--colr-primary);
+  color: #fff !important;
+}
+.primary-btn.outlined-btn {
+  color: var(--colr-primary) !important;
+  border: 1px solid var(--colr-primary) !important;
+}
+.primary-btn:hover {
+  border: 1px solid var(--colr-primary-dark) !important;
+  background-color: var(--colr-primary-dark);
+}
+.primary-btn:active {
+  border: 1px solid var(--colr-primary-darker) !important;
+  background-color: var(--colr-primary-darker);
+}
+
+/* Secondary-btn */
+.secondary-btn {
+  border: 1px solid var(--colr-secondary) !important;
+  background-color: var(--colr-secondary);
+  color: var(--colr-primary) !important;
+}
+.secondary-btn:hover {
+  border: 1px solid var(--colr-secondary-dark) !important;
+  background-color: var(--colr-secondary-dark);
+}
+.secondary-btn:active {
+  border: 1px solid var(--colr-secondary-darker) !important;
+  background-color: var(--colr-secondary-darker) !important;
+}
+
+/* Dark-btn */
+.dark-btn {
+  border: 1px solid var(--colr-black-dark) !important;
+  background-color: var(--colr-black-dark);
+  color: var(--colr-light) !important;
+}
+.dark-btn.outlined-btn {
+  color: var(--colr-black) !important;
+}
+.dark-btn:hover {
+  border: 1px solid var(--colr-black-darker) !important;
+  background-color: var(--colr-black-darker);
+}
+.dark-btn:active {
+  border: 1px solid var(--colr-black) !important;
+  background-color: var(--colr-black);
+}
+
+/* Light-btn */
+.light-btn {
+  border: 1px solid var(--colr-light) !important;
+  background-color: var(--colr-light);
+  color: var(--colr-black) !important;
+}
+.light-btn.outlined-btn {
+  color: var(--colr-light) !important;
+}
+.light-btn:hover {
+  border: 1px solid var(--colr-light-dark) !important;
+  background-color: var(--colr-light-dark);
+}
+.light-btn:active {
+  border: 1px solid var(--colr-light-darker) !important;
+  background-color: var(--colr-light-darker);
+}
+
+
+/**/
