@@ -90,8 +90,6 @@ import BlogArticleCard from "@/components/bodyComponents//BlogArticleCard.vue";
             <div class="container col-lg-9">
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     <!-- Row... -->
-
-
                     <div class="articleslist" v-for="a in 9">
                         <!-- ProductItem-Cards -->
                         <div class="col py-3">
@@ -143,7 +141,7 @@ export default {
     },
     methods: {
         setPageTitle() {
-            document.title = "Homello | Blog";
+            document.title = "Blog | Trendy Timber";
         }
     },
     beforeMount() {

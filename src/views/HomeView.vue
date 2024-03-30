@@ -119,11 +119,11 @@
         <div class="row row-cols-1 row-cols-lg-2 align-items-stretch">
           <div class="col mx-0">
             <MediumImageBanner class="w-100 mx-0 preload-rs s-anim" banner-title="Apparels Collection"
-              banner-description="Homello Furniture" banner-image="/assets/images/sli-h1.webp" />
+              banner-description="Trendy Timber" banner-image="/assets/images/sli-h1.webp" />
           </div>
           <div class="col mx-0">
             <MediumImageBanner class="w-100 mx-0 preload-rs s-anim" banner-title="Chair Collection"
-              banner-description="Homello Furniture" banner-image="/assets/images/slide-2.png" />
+              banner-description="Trendy Timber" banner-image="/assets/images/slide-2.png" />
           </div>
         </div>
       </div>
@@ -193,37 +193,38 @@
                 <!-- ProductItem-Carousel -->
                 <div class="carousel-item active">
                   <div class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content align-items-stretch">
-
-                    <ProductItemCard product-title="Ergonomic Chair" product-category="Homello" product-price="45.87"
+                    <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy timber" product-price="₹1400"
                       product-discount="" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Nordic Chair" product-category="Homello" product-price="67.00"
+                    <ProductItemCard product-title="Nordic Chair" product-category="Trendy timber" product-price="₹1900"
                       product-discount="" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="₹1000"
                       product-discount="" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
                   </div>
                 </div>
 
+                <div class="carousel-item ">
+                  <div class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content align-items-stretch">
+                    <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy timber" product-price="1300"
+                      product-discount="" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Nordic Chair" product-category="Trendy timber" product-price="1700"
+                      product-discount="" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="900"
+                      product-discount="" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
+                  </div>
+                </div>
                 <div class="carousel-item">
                   <div class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content align-items-stretch">
-                    <ProductItemCard product-title="Ergonomic Chair" product-category="Homello" product-price="45.87"
-                      product-discount="" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Nordic Chair" product-category="Homello" product-price="67.00"
-                      product-discount="" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
-                      product-discount="" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy timber" product-price="1200"
+                      product-discount="3%" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Nordic Chair" product-category="Trendy timber" product-price="1600"
+                      product-discount="5%" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="800"
+                      product-discount="1%" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
                   </div>
                 </div>
+                
 
-                <div class="carousel-item">
-                  <div class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content align-items-stretch">
-                    <ProductItemCard product-title="Ergonomic Chair" product-category="Homello" product-price="45.87"
-                      product-discount="" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Nordic Chair" product-category="Homello" product-price="67.00"
-                      product-discount="" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
-                      product-discount="" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
-                  </div>
-                </div>
+                
 
               </div>
               <!-- ../Carousel-Inner -->
@@ -267,16 +268,16 @@
           </span>
         </div>
         <div class="content row row-cols-1 row-cols-lg-4 align-items-stretch">
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="1500"
             product-discount="" product-image="/assets/images/product-4.png"
             class="col-6 col-lg-3 mx-auto preload-rs s-anim" />
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="1700"
             product-discount="" product-image="/assets/images/product-5.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="4500"
             product-discount="" product-image="/assets/images/product-6.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="1100"
             product-discount="" product-image="/assets/images/product-7.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
         </div>
@@ -289,7 +290,8 @@
     <div class="addBanner my-5 py-5">
       <div class="container">
         <MediumImageBanner banner-title="50% OFF Interior Collection"
-          banner-description="Free shipping over 115$ for international orders" banner-image="/assets/images/sli-h1.webp"
+          banner-description="Free shipping over ₹20,000
+ for international orders" banner-image="/assets/images/sli-h1.webp"
           class="py-5 mx-auto preload-rs s-anim" />
       </div>
     </div>
@@ -304,17 +306,17 @@
           <span class="fs-2 fw-semibold">Latest Arrivals</span>
         </div>
         <div class="content row row-cols-1 row-cols-lg-4 align-items-stretch">
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
-            product-discount="" product-image="/assets/images/product-8.png"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="1500"
+            product-discount="10%" product-image="/assets/images/product-8.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="600"
             product-discount="" product-image="/assets/images/product-9.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="2500"
             product-discount="" product-image="/assets/images/product-10.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
-          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
-            product-discount="" product-image="/assets/images/product-11.png"
+          <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="5,000"
+            product-discount="5%" product-image="/assets/images/product-11.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
         </div>
       </div>
@@ -361,7 +363,7 @@ export default {
   },
   methods: {
     setPageTitle() {
-      document.title = "Homello | Home";
+      document.title = "Home | Trendy Timber";
     }
   },
   components: {

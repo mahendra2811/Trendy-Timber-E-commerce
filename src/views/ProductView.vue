@@ -205,7 +205,7 @@ export default {
     name: "ProductView",
     methods: {
         setPageTitle() {
-            document.title = "Homello | Product Name";
+            document.title = "Product Name | Trendy Timber";
         }
     },
     beforeMount() {

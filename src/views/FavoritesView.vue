@@ -21,7 +21,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
         <div class="container py-4">
             <div class="row py-lg-4">
                 <div class="col-lg-6 col-md-8 mx-auto">
-                    <h1 class="fw-bold display-5 opacity-80">Favorites products.</h1>
+                    <h1 class="fw-bold display-5 opacity-80">Favourite products</h1>
                 </div>
             </div>
         </div>
@@ -51,26 +51,26 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                 <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
                     Chair-product {{ item }}</div>
                 <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
-                    15$
+                    2100₹
                 </div>
                 <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
                     <div class="d-flex justify-content-between align-items-stretch gap-1">
-                        <input type="text" name="" class="form-control" value="1" id="">
+                        <input type="text" name="" class="form-control" value="2" id="">
                         <button class="btn btn-light border" type="button"><span class="bi bi-plus-lg"></span></button>
                         <button class="btn btn-light border" type="button"><span class="bi bi-dash-lg"></span></button>
                     </div>
                 </div>
                 <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
-                    45$
+                    4200₹
+
                 </div>
                 <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
 
                     <button class="btn btn-light border rounded rounded-0 me-1" type="button"><span
                             class="cursor-p bi bi-trash3 "></span></button>
                     <button class="btn btn-light border rounded rounded-0 ms-1" type="button"><span
-                            class="bi bi-plus-lg"></span>
-                        <span>Add to
-                            cart</span></button>
+                        class="bi bi-cart-plus"></span>
+                        <span></span></button>
                 </div>
             </div>
             <!-- ...Product-Item -->
@@ -122,7 +122,7 @@ export default {
     name: "FavoritesView",
     methods: {
         setPageTitle() {
-            document.title = "Homello | Favorites";
+            document.title = "Favorites | Trendy Tinder";
         }
     },
     beforeMount() {

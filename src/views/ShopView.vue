@@ -228,11 +228,11 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                 <div class="row row-cols-1 row-cols-lg-2 align-items-stretch">
                     <div class="col mx-0 preload-rs ">
                         <MediumImageBanner class="w-100 mx-0" banner-title="Apparels Collection"
-                            banner-description="Homello Furniture" banner-image="/assets/images/sli-h1.webp" />
+                            banner-description="Trendy Timber" banner-image="/assets/images/sli-h1.webp" />
                     </div>
                     <div class="col mx-0 preload-rs ">
                         <MediumImageBanner class="w-100 mx-0" banner-title="Chair Collection"
-                            banner-description="Homello Furniture" banner-image="/assets/images/slide-3.png" />
+                            banner-description="Trendy Timber" banner-image="/assets/images/slide-3.png" />
                     </div>
                 </div>
             </div>

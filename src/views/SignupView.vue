@@ -114,7 +114,7 @@ export default {
     name: "SignupView",
     methods: {
         setPageTitle() {
-            document.title = "Homello | Register";
+            document.title = "Register | Trendy Timber";
         }
     },
     beforeMount() {

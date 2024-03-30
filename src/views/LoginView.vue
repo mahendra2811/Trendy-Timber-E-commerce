@@ -113,7 +113,7 @@ export default {
     },
     methods: {
         setPageTitle() {
-            document.title = "Homello | Login ";
+            document.title = "Login | Trendy Timber";
         }
     },
     beforeMount() {
