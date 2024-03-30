@@ -1,4 +1,4 @@
-# **Trendy Timber**
+# **Trendy Timber E-commerce Website **
 
 **Trendy Timber** is an open-source home furniture e-commerce web app built with **Vue.js**.
 
@@ -71,10 +71,10 @@ Follow these steps to set up **Trendy Timber** locally:
 
 ## **Contributing**
 
-Contributions are welcomed, for further modifications, improvements, or any questions, feel free to reach out to me via email at :
+Contributions are welcomed, for further modifications, improvements, or any questions, feel free to reach out to me via -
 
 - **Email:** [mahendrapuniya92@gmail.com](mailto:mahendrapuniya92@gmail.com)
-- **Portfolio:** [www.mahendra-punniya.com](https://mahendra-pooniya.netlify.app/)
+- **Portfolio:** [www.MahendraPuniya.com](https://mahendra-pooniya.netlify.app/)
 - **LinkedIn:** [www.linkedin.com/in/pooniyamahendra](https://www.linkedin.com/in/pooniyamahendra/)
 - **Git-hub:** [www.github.com/mahendra2811](https://github.com/mahendra2811)
 - **Leet-code:** [www.leetcode.com/mahendra92/](https://leetcode.com/mahendra92/)
@@ -84,7 +84,7 @@ Contributions are welcomed, for further modifications, improvements, or any ques
 This project is licensed under the Open Modification License, allowing for modifications. However, please ensure that any modified projects do not use the same name due to trademark considerations. See the [LICENSE](LICENSE) file for details.
 
 
-## **Screenshots and Videos**
+## **Screenshots **
 
 Check out some captures of the web app in action !
 
