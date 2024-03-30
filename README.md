@@ -2,7 +2,7 @@
 
 **Trendy Timber** is an open-source home furniture e-commerce web app built with **Vue.js**.
 
-**Website :** visit [https://trendy-timber-online-store.netlify.app/](www.trendy-timber-online-store.netlify.app/)
+**Website :** visit [https://mahendra-pooniya.netlify.app/](www.mahendra-pooniya.netlify.app/)
 
 ## **Overview**
 

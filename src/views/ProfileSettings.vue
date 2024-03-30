@@ -55,7 +55,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                 <div class="header mb-3 px-1 py-1">
                     <h5 class="fw-bold opacity-80 text-black-emphasis">Account Settings</h5>
                     <p class="fw-medium text-body-tertiary">
-                        Modify personal informations linked to your homello shopping
+                        Modify personal informations linked to your Trendy Timber shopping
                         account
                     </p>
                 </div>
@@ -162,7 +162,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                 <div class="header mb-3 mt-5 px-1 pt-3">
                     <h5 class="fw-bold opacity-80 text-black-emphasis">Profile Settings</h5>
                     <p class="fw-medium text-body-tertiary">
-                        Modify the profile linked to your homello account
+                        Modify the profile linked to your Trendy Timber account
                     </p>
                 </div>
 
@@ -207,7 +207,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                         <div class="item-desc">
                             <h5 class="fw-bold">Delete your Account</h5>
                             <span class="d-block fw-normal text-body-secondary">
-                                Click to delete your homello account.</span>
+                                Click to delete your Trendy Timber account.</span>
                         </div>
                         <button
                             class="collapsed item-btn btn btn-danger bg-danger-subtle text-danger-emphasis rounded rounded-1 d-flex justify-content-between align-items-center gap-2"

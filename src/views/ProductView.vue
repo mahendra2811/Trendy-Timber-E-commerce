@@ -74,18 +74,14 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                         </div>
                     </div>
                     <div class="col-md-6 mt-5 mt-lg-0">
-                        <div class="small mb-1 opacity-75">CATEGORY</div>
-                        <h1 class="display-5 fw-bolder">Product Name</h1>
-                        <p class="lead fw-normal mt-4 mb-3 opacity-80">Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit.
-                            Praesentium.
-                            Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis deftus delectus
-                            ipsam minima ea iste laborum vero?</p>
+                        <div class="small mb-1 opacity-75">Chair</div>
+                        <h1 class="display-5 fw-bolder">Wide Tufted Velvet Armchair</h1>
+                        <p class="lead fw-normal mt-4 mb-3 opacity-80">Cute small accent chairs that can save space. It can fit well in any living room, bedroom, or guest room.</p>
 
                         <div class="fs-1 mb-5 d-flex gap-1 flex-column align-items-start">
-                            <span class="fw-bold">₹4,500</span>
+                            <span class="fw-bold">₹3,500</span>
                             <span class="fs-6 fw-semibold d-block opacity-75">regular price <span
-                                    class="text-decoration-line-through fw-bold">₹4,000</span></span>
+                                    class="text-decoration-line-through fw-bold">₹5,000</span></span>
                         </div>
 
                         <div class="d-flex my-3 gap-2 prod-link fw-normal align-items-center">
@@ -141,15 +137,15 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                 </span>
             </div>
             <div class="content row row-cols-2 row-cols-lg-5 d-flex justify-content-between align-items-stretch">
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-4.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-5.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-6.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-7.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Homello" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-5.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
             </div>
         </div>

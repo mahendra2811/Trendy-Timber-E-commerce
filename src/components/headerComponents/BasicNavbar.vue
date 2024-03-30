@@ -80,17 +80,18 @@ export default {
           label: "Home"
         },
         {
-          tag: "shop",
-          isActive: false,
-          url: "shop",
-          label: "Shop"
-        },
-        {
           tag: "about",
           isActive: false,
           url: "about",
           label: "About us"
         },
+        {
+          tag: "shop",
+          isActive: false,
+          url: "shop",
+          label: "Shop"
+        },
+        
         {
           tag: "Blog",
           isActive: false,

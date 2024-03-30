@@ -37,21 +37,21 @@ button.round-carousel-btn {
 
                                 <div class="p-3 p-lg-5 mx-0">
                                     <ReviewsComponent rev-name="Ram" rev-location="Delhi , India"
-                                        rev-img="/assets/images/person-1.png" :rev-text="tempComment" class="w-80" />
+                                        rev-img="/assets/images/person-5.jpg" :rev-text="tempComment1" class="w-80" />
                                 </div>
                             </div>
                             <div class="carousel-item">
 
                                 <div class="p-3 p-lg-5 mx-0">
                                     <ReviewsComponent rev-name="Shyam" rev-location="Punjab , India"
-                                        rev-img="/assets/images/person-1.png" :rev-text="tempComment" class="w-80" />
+                                        rev-img="/assets/images/person-6.jpg" :rev-text="tempComment2" class="w-80" />
                                 </div>
                             </div>
                             <div class="carousel-item active">
 
                                 <div class="p-3 p-lg-5 mx-0">
                                     <ReviewsComponent rev-name="Lakshman" rev-location="Noida"
-                                        rev-img="/assets/images/person-1.png" :rev-text="tempComment" class="w-80" />
+                                        rev-img="/assets/images/person-7.jpg" :rev-text="tempComment3" class="w-80" />
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,9 @@ export default {
     name: "CustomersReviewsBanner",
     data() {
         return {
-            tempComment: "I recently purchased a stunning coffee table from this store, and I'm thrilled with my choice. The table not only complements my living room decor perfectly but also stands out for its sturdy build and elegant design. The buying process was smooth, and the delivery was prompt. Overall, a fantastic experience!"
+            tempComment1: "I recently purchased a dining set from Trendy Timber, and I couldn't be happier with my experience. The quality of the furniture surpassed my expectations, and the customer service was outstanding. From start to finish, it was a seamless process, and I highly recommend Trendy Timber to anyone in search of high-quality furniture.",
+            tempComment2: "I stumbled upon Trendy Timber while searching for a new sofa, and I'm so glad I did. The selection of furniture was impressive, and I found the perfect piece at a great price. The shopping experience was easy, and the delivery was prompt. I'm thrilled with my purchase and will definitely be a repeat customer.",
+            tempComment3: "I had a wonderful experience shopping at Trendy Timber. The customer service team was incredibly helpful and responsive, assisting me every step of the way. They went above and beyond to ensure I found the perfect furniture for my home, and I couldn't be more satisfied with the outcome. Thank you, Trendy Timber!",
         }
     },
     components: {

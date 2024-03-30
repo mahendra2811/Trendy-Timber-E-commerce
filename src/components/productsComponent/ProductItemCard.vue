@@ -95,9 +95,9 @@
         <span class="product-name fs-6 fw-semibold">
           {{ productTitle }}</span>
         <span class="product-price fs-6">
-          <span class="act-price color-primary fw-bold">${{ productPrice }}</span>
+          <span class="act-price color-primary fw-bold">₹{{ productPrice }}</span>
 
-          <span class="cans-price ms-3" v-if="productDiscount"><s>${{ productDiscount }}</s></span>
+          <span class="cans-price ms-3" v-if="productDiscount"><s>₹{{ productDiscount }}</s></span>
 
         </span>
       </div>

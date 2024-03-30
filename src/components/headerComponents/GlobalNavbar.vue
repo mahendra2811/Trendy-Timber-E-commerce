@@ -109,17 +109,18 @@ export default {
                     url: "home",
                     label: "Home"
                 },
-                {
-                    tag: "shop",
-                    isActive: false,
-                    url: "shop",
-                    label: "Shop"
-                },
+                
                 {
                     tag: "about",
                     isActive: false,
                     url: "about",
                     label: "About"
+                },
+                {
+                    tag: "shop",
+                    isActive: false,
+                    url: "shop",
+                    label: "Shop"
                 },
                 {
                     tag: "blog",

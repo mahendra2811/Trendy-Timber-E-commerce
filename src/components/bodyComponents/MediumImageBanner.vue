@@ -66,7 +66,7 @@ export default {
         bannerImage: { type: String, default: "/assets/images/sli-h1.webp" },
         bannerTitle: { type: String, default: "Image Banner Title" },
         bannerDescription: { type: String, default: "Description text goes here..." },
-        bannerLink: { type: String },
+        bannerLink: { type: String, default: "#" },
         btnLabel: { type: String, default: "Discover now" }
     }
 }
