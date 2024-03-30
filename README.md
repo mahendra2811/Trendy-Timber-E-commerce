@@ -1,4 +1,4 @@
-# **Trendy Timber E-commerce Website **
+# **Trendy Timber E-Commerce Website**
 
 **Trendy Timber** is an open-source home furniture e-commerce web app built with **Vue.js**.
 
