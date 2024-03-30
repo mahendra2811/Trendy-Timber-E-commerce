@@ -30,13 +30,39 @@ Check out some captures of the web app in action !
 
 ![Screenshot 1](web_capture/home_full.jpeg)
 
-**About Page:**
-
-![Screenshot 3](app_captures/homello-project-video-006.png)
-
 **Shop Page:**
 
-![Screenshot 2](app_captures/homello-project-video-004.png)
+![Screenshot 3](web_capture/Shop_full.jpeg)
+
+**About Page:**
+
+![Screenshot 2](web_capture/about_full.jpeg)
+**Blog Page:**
+
+![Screenshot 2](web_capture/blog.png )
+
+**Favourite Product Page:**
+
+![Screenshot 2](web_capture/FavouriteProduct.jpeg )
+
+**Login Page:**
+
+![Screenshot 2](web_capture/login.jpeg )
+
+**Sign-up Page:**
+
+![Screenshot 2](web_capture/SignUp.jpeg )
+**Forget Password Page:**
+
+![Screenshot 2](web_capture/forgetPassword.jpeg )
+
+**Shoping cart  Page:**
+
+![Screenshot 2](web_capture/ShopingCart.jpeg )
+
+**Shoping Cart Page:**
+
+![Screenshot 2](web_capture/ShopingCart.jpeg )
 
 **Watch videos instead :**
 [Watch Demo Video](app_captures/homello-project-video-001.mp4)
