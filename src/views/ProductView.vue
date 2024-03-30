@@ -83,9 +83,9 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                             ipsam minima ea iste laborum vero?</p>
 
                         <div class="fs-1 mb-5 d-flex gap-1 flex-column align-items-start">
-                            <span class="fw-bold">$45.00</span>
+                            <span class="fw-bold">₹4,500</span>
                             <span class="fs-6 fw-semibold d-block opacity-75">regular price <span
-                                    class="text-decoration-line-through fw-bold">$40.00</span></span>
+                                    class="text-decoration-line-through fw-bold">₹4,000</span></span>
                         </div>
 
                         <div class="d-flex my-3 gap-2 prod-link fw-normal align-items-center">

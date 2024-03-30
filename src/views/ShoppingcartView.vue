@@ -41,7 +41,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
             </div>
             <!-- ...Title::: -->
 
-            <div v-for="item in 3">
+            <div v-for="item in 2">
                 <!-- Product-Item -->
                 <div class="product-item row text-center border-bottom d-flex align-items-stretch justify-content-between">
                     <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
@@ -50,7 +50,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                     <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
                         Chair-product {{ item }}</div>
                     <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
-                        15$
+                        1500₹
                     </div>
                     <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
                         <div class="d-flex justify-content-between align-items-stretch gap-1">
@@ -60,7 +60,7 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                         </div>
                     </div>
                     <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
-                        45$
+                        1700₹
                     </div>
                     <div class="col-sm-2 fw-semibold p-3 themed-grid-col d-flex justify-content-center align-items-center">
                         <span class="cursor-p bi bi-trash3 fs-4"></span>
@@ -118,13 +118,13 @@ import LinkButton from "@/components/btnComponents/GlobalButtons/LinkButton.vue"
                             <span class="label me-5 fw-semibold">
                                 No. Products
                             </span>
-                            <span class="label fw-bold text-nowrap">8</span>
+                            <span class="label fw-bold text-nowrap">2</span>
                         </div>
                         <div class="py-1 d-flex gap-2 w-100 justify-content-between">
                             <span class="label me-5 fw-semibold">
                                 Total Price
                             </span>
-                            <span class="label fw-bold text-nowrap">175.25$</span>
+                            <span class="label fw-bold text-nowrap">3400₹</span>
                         </div>
 
                         <LinkButton btn-theme="dark-btn" btn-label="Proceed To Checkout" btn-url="" btn-icon="arrow-right"
@@ -154,7 +154,7 @@ export default {
     name: "ShoppingcartView",
     methods: {
         setPageTitle() {
-            document.title = "Homello | Shopping Cart";
+            document.title = "Shopping Cart | Trendy Timber";
         }
     },
     beforeMount() {

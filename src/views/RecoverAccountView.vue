@@ -57,7 +57,7 @@ button:active {
 
                 <h1 class="display-6 mb-1 fw-bold d-flex align-items-center justify-content-center">Recover your account
                 </h1>
-                <p class="w-80 mb-4 mx-auto d-flex align-items-center justify-content-center opacity-50" align="center">
+                <p class="w-80 mb-4 mx-auto d-flex align-items-center justify-content-center opacity-50" align="center" >
                     Enter the mail used to open your account, you'll receive a link to recover your account in less than an
                     hour !</p>
 
@@ -93,7 +93,7 @@ export default {
     name: "RecoverAccountView",
     methods: {
         setPageTitle() {
-            document.title = "Homello | Recover Your Account";
+            document.title = "Recover Your Account | Trendy Timber";
         }
     },
     beforeMount() {
