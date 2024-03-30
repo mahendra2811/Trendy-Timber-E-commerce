@@ -1,14 +1,13 @@
-# **Homello**
+# **Trendy Timber**
 
-**Homello** is an open-source home furniture e-commerce web app built with **Vue.js**.
+**Trendy Timber** is an open-source home furniture e-commerce web app built with **Vue.js**.
 
-**Website :** visit [https://homello.netlify.app/](https://homello.netlify.app/)
+**Website :** visit [https://trendy-timber-online-store.netlify.app/](www.trendy-timber-online-store.netlify.app/)
 
 ## **Overview**
 
-[![License](https://img.shields.io/badge/License-Open%20Modification-green.svg)](https://opensource.org/licenses/OpenModification)
 
-**Homello** aims to provide a seamless and user-friendly experience for browsing and purchasing home furniture. The project focuses on creating a secure platform for users to discover, explore, and shop for high-quality home and office furnishings and decorations.
+**Trendy Timber** aims to provide a seamless and user-friendly experience for browsing and purchasing home furniture. The project focuses on creating a secure platform for users to discover, explore, and shop for high-quality home and office furnishings and decorations.
 
 ## **Tech Stack**
 
@@ -29,7 +28,7 @@
 
 Check out some captures of the web app in action !
 
-![Screenshot 1](app_captures/homello-project-video-002.png)
+![Screenshot 1](web_capture/home_full.jpeg)
 
 **About Page:**
 
