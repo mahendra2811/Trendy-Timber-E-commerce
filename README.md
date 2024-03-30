@@ -24,53 +24,10 @@
 - **Responsive Design:** Accessible and functional across various devices and screen sizes.
 - **Vue.js:** Built with **Vue.js** for a modular and efficient frontend.
 
-## **Screenshots and Videos**
-
-Check out some captures of the web app in action !
-
-![Screenshot 1](web_capture/home_full.jpeg)
-
-**Shop Page:**
-
-![Screenshot 3](web_capture/Shop_full.jpeg)
-
-**About Page:**
-
-![Screenshot 2](web_capture/about_full.jpeg)
-**Blog Page:**
-
-![Screenshot 2](web_capture/blog.png )
-
-**Favourite Product Page:**
-
-![Screenshot 2](web_capture/FavouriteProduct.jpeg )
-
-**Login Page:**
-
-![Screenshot 2](web_capture/login.jpeg )
-
-**Sign-up Page:**
-
-![Screenshot 2](web_capture/SignUp.jpeg )
-**Forget Password Page:**
-
-![Screenshot 2](web_capture/forgetPassword.jpeg )
-
-**Shoping cart  Page:**
-
-![Screenshot 2](web_capture/ShopingCart.jpeg )
-
-**Shoping Cart Page:**
-
-![Screenshot 2](web_capture/ShopingCart.jpeg )
-
-**Watch videos instead :**
-[Watch Demo Video](app_captures/homello-project-video-001.mp4)
-[Watch Demo Video 2](app_captures/homello-project-video-002.mp4)
 
 ## **Installation**
 
-Follow these steps to set up **Homello** locally:
+Follow these steps to set up **Trendy Timber** locally:
 
 ### Prerequisites
 
@@ -81,13 +38,13 @@ Follow these steps to set up **Homello** locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Homello.git
+   git clone https://github.com/mahendra2811/Trendy-Timber-E-commerce.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Homello
+   cd Trendy-Timber-E-commerce
    ```
 
 3. Install dependencies:
@@ -116,10 +73,51 @@ Follow these steps to set up **Homello** locally:
 
 Contributions are welcomed, for further modifications, improvements, or any questions, feel free to reach out to me via email at :
 
-- **Email:** [dev.axeltokam@gmail.com](mailto:dev.axeltokam@gmail.com)
-- **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-%40axeltokam-blue)](https://twitter.com/axeltokam)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Axel%20Tokam-blue)](https://www.linkedin.com/in/axeltokam/)
+- **Email:** [mahendrapuniya92@gmail.com](mailto:mahendrapuniya92@gmail.com)
+- **Portfolio:** [www.mahendra-punniya.com](https://mahendra-pooniya.netlify.app/)
+- **LinkedIn:** [www.linkedin.com/in/pooniyamahendra](https://www.linkedin.com/in/pooniyamahendra/)
+- **Git-hub:** [www.github.com/mahendra2811](https://github.com/mahendra2811)
+- **Leet-code:** [www.leetcode.com/mahendra92/](https://leetcode.com/mahendra92/)
 
 ## **License**
 
 This project is licensed under the Open Modification License, allowing for modifications. However, please ensure that any modified projects do not use the same name due to trademark considerations. See the [LICENSE](LICENSE) file for details.
+
+
+## **Screenshots and Videos**
+
+Check out some captures of the web app in action !
+
+![Screenshot 1](web_capture/home_full.jpeg)
+
+**Shop Page:**
+
+![Screenshot 3](web_capture/Shop_full.jpeg)
+
+**About Page:**
+
+![Screenshot 4](web_capture/about_full.jpeg)
+**Blog Page:**
+
+![Screenshot 5](web_capture/blog.png )
+
+**Favourite Product Page:**
+
+![Screenshot 6](web_capture/FavouriteProduct.jpeg )
+
+**Login Page:**
+
+![Screenshot 7](web_capture/login.jpeg )
+
+**Sign-up Page:**
+
+![Screenshot 8](web_capture/SignUp.jpeg )
+**Forget Password Page:**
+
+![Screenshot 9](web_capture/forgetPassword.jpeg )
+
+**Shoping cart  Page:**
+
+![Screenshot 10](web_capture/ShopingCart.jpeg )
+
+
