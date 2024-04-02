@@ -96,7 +96,7 @@
               <h1 class="display-3 fw-semibold">Modern & Unique Home Furnitures.</h1>
               <p class="lead opacity-75">Fill your home with furniture that brings you
                 comfort as soon as you walk in the door..</p>
-              <LinkButton btn-theme="secondary-btn" btn-label="Explore Now" btn-url="" btn-icon="arrow-right"
+              <LinkButton btn-theme="secondary-btn" btn-label="Explore Now" btn-url="shop" btn-icon="arrow-right"
                 outlined="false" class="btn-lg mt-3" />
             </div>
           </div>
@@ -179,7 +179,7 @@
             <p class="fs-4">Discover some of our newest premium furnitures, at the cheapest rates possible </p>
 
             <!-- LinkButton -->
-            <LinkButton btn-theme="secondary-btn" btn-label="Discover Now" btn-url="" btn-icon="arrow-right"
+            <LinkButton btn-theme="secondary-btn" btn-label="Discover Now" btn-url="shop" btn-icon="arrow-right"
               outlined="false" class="btn-lg my-3" />
           </div>
           <!-- */Banner-Description -->
@@ -193,12 +193,12 @@
                 <!-- ProductItem-Carousel -->
                 <div class="carousel-item active">
                   <div class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content align-items-stretch">
-                    <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy timber" product-price="₹1400"
-                      product-discount="" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Nordic Chair" product-category="Trendy timber" product-price="₹1900"
-                      product-discount="" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="₹1000"
-                      product-discount="" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy timber" product-price="1400"
+                      product-discount="2000" product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Nordic Chair" product-category="Trendy timber" product-price="1900"
+                      product-discount="3500" product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="1000"
+                      product-discount="1300" product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
                   </div>
                 </div>
 
@@ -269,10 +269,10 @@
         </div>
         <div class="content row row-cols-1 row-cols-lg-4 align-items-stretch">
           <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="1500"
-            product-discount="" product-image="/assets/images/product-4.png"
+            product-discount="2350" product-image="/assets/images/product-4.png"
             class="col-6 col-lg-3 mx-auto preload-rs s-anim" />
           <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="1700"
-            product-discount="" product-image="/assets/images/product-5.png"
+            product-discount="1899" product-image="/assets/images/product-5.png"
             class="col-6 col-lg-3  mx-auto preload-rs s-anim" />
           <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="4500"
             product-discount="" product-image="/assets/images/product-6.png"
@@ -291,8 +291,8 @@
       <div class="container">
         <MediumImageBanner banner-title="50% OFF Interior Collection"
           banner-description="Free shipping over ₹20,000
- for international orders" banner-image="/assets/images/sli-h1.webp"
-          class="py-5 mx-auto preload-rs s-anim" />
+ for international orders" bannerLink="product"  banner-image="/assets/images/sli-h1.webp"
+          class="py-5 mx-auto preload-rs s-anim"  />
       </div>
     </div>
     <!-- */addBanner -->
